@@ -1,0 +1,1 @@
+The idea is replacing ammunition with fruits and vegetables. It's really funny (imo). Originally they were hand-written SVG files. Then I converted them into not-scalable images. I don't know where the original SVG files went. But I was able to download the mod that I uploaded. I don't play WoT anymore so I won't be making any changes to this.
